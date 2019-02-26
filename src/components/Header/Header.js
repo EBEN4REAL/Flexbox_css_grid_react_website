@@ -1,4 +1,4 @@
- import React , {Component} from 'reaact';
+ import React , {Component} from 'react';
 
  class Header extends Component {
 
@@ -7,7 +7,7 @@
                     <header>
                         <nav>
                             <div class="nav-container">
-                                <img src="http://pluspng.com/img-png/best-quality-png-download-best-quality-png-images-transparent-gallery-advertisement-1024.png" alt="img">
+                                <img src="http://pluspng.com/img-png/best-quality-png-download-best-quality-png-images-transparent-gallery-advertisement-1024.png" alt="img" />
                                 <div class="btn">
                                     <div class="bar"></div>
                                     <div class="bar"></div>
@@ -25,9 +25,9 @@
                         </nav>
                         <div class="banner">
                             <div class="banner-center">
-                                <img src="http://pluspng.com/img-png/best-quality-png-download-best-quality-png-images-transparent-gallery-advertisement-1024.png" alt="img">
+                                <img src="http://pluspng.com/img-png/best-quality-png-download-best-quality-png-images-transparent-gallery-advertisement-1024.png" alt="img" />
                                 <h1>Company <span class="and"> & </span>co</h1>
-                                <h3 class="" style="color: white">Car shop for fanatics</h3>
+                                <h3>Car shop for fanatics</h3>
                                 <div class="banner-icons">
                                     <a href=""><i class="fab fa-facebook"></i></a>
                                     <a href=""><i class="fab fa-instagram"></i></a>
