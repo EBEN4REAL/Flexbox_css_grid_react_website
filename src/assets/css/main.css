@@ -92,8 +92,14 @@ nav{
     /* border-radius: 50%; */
     color: #f5f3f5;
     margin-right: 3px;
-    /* transition: color 1s ease */
 }
 .banner img {
     width: 300px;
+}
+.banner-icons a:hover {
+    transform: translateY(-5px);
+}
+nav{
+    position: fixed;
+    width: 100%;
 }
